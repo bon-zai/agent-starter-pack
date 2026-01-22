@@ -204,3 +204,8 @@ tests/cicd/delete_gcp_resources.sh
 tests/cicd/delete_agent_engines.py
 backup*
 .geminiignore
+
+# Auto-added specific ignore rules
+bon-zai-ltd-3941802069cd.json
+.agent/
+skills.zip
